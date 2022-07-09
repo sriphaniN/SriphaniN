@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **sriphani.nasika@gmail.com**
-- 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
